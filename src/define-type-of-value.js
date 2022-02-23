@@ -1,6 +1,5 @@
 const defineTypeOfValue = (value) => {
-  //Your implementation
-  return;
+  return typeof value;
 };
 
 module.exports = defineTypeOfValue;
